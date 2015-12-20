@@ -1,0 +1,61 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+label { display: block; }
+.validationMessage { color: Red; }
+.customMessage { color: Orange; }
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.modal-backdrop { 
+      z-index: 0 !important;  
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+p{
+    color: #FFF;
+}
+
+#divLogo{margin-top: 38px; margin-bottom: 0px; margin-left: -3px;}
+
+#divSiteTitle {font-family: Allura, cursive; color: #4DB2B3; font-size: 45px; text-shadow: rgba(0, 0, 0, 0.298039) 2px 4px 3px; line-height: 40px; letter-spacing: 2px; text-transform: none; font-weight: bold; font-style: normal; text-decoration: none;}
+
+#divTagLine {font-family: Aldrich, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 5px; line-height: 35px; color: rgb(140, 140, 140); text-shadow: none; padding-left: 0px; padding-right: 0px; font-weight: normal; font-style: normal; background-color: transparent;}
+
+ 
+	body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer {
+    background-color: #195075;
+	}
+	
+	.panel {
+     background-color: #DADEE1;
+	     text-align: center;
+    margin-left: 12px;
+	}
+	

@@ -1,0 +1,12 @@
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\Nimble.Data.dll
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\Nimble.Data.pdb
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\EntityFramework.dll
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\Nimble.Models.dll
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\Nimble.Models.pdb
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\EntityFramework.xml
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\AshishMine\EmployeeInformation\Nimble.Data\obj\Debug\Nimble.Data.csprojResolveAssemblyReference.cache
+F:\AshishMine\EmployeeInformation\Nimble.Data\obj\Debug\Nimble.Data.dll
+F:\AshishMine\EmployeeInformation\Nimble.Data\obj\Debug\Nimble.Data.pdb
+F:\AshishMine\EmployeeInformation\Nimble.Data\bin\Debug\Nimble.Data.dll.config

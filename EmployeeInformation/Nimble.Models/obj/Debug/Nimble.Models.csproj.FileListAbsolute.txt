@@ -1,0 +1,5 @@
+F:\AshishMine\EmployeeInformation\Nimble.Models\bin\Debug\Nimble.Models.dll
+F:\AshishMine\EmployeeInformation\Nimble.Models\bin\Debug\Nimble.Models.pdb
+F:\AshishMine\EmployeeInformation\Nimble.Models\obj\Debug\Nimble.Models.csprojResolveAssemblyReference.cache
+F:\AshishMine\EmployeeInformation\Nimble.Models\obj\Debug\Nimble.Models.dll
+F:\AshishMine\EmployeeInformation\Nimble.Models\obj\Debug\Nimble.Models.pdb

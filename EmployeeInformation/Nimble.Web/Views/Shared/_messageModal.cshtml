@@ -1,0 +1,22 @@
+﻿ 
+<div id="messageModal">
+    <div class="modal-header">
+        <input type="hidden"   ng-model="Id" />
+        <h3>{{headerText}}</h3>
+    </div>
+    <div class="modal-body">
+        <p>{{bodyText}}</p>
+    </div>
+    <div class="modal-footer">
+
+      
+        <button type="button" class="btn"
+                data-ng-click="$dismiss()">
+            {{closeButtonText}}
+        </button>
+        <button class="btn btn-primary"
+                data-ng-click="delete();">
+            {{actionButtonText}}
+        </button>
+    </div>
+</div>
